@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Lab 2
 
-You can use the [editor on GitHub](https://github.com/rahulp217/CIT-Lab2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Learning Objectives 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use CLI commands for directory and file manipulation
 
-### Markdown
+Use CLI commands for git commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Part 0: Setup git user credentials
 
-```markdown
-Syntax highlighted code block
+Part 1: New git repository
 
-# Header 1
-## Header 2
-### Header 3
+Part 2: Initial JavaScript file
 
-- Bulleted
-- List
+Part 3: Add file to git
 
-1. Numbered
-2. List
+Part 4: Ignoring files
 
-**Bold** and _Italic_ and `Code` text
+Part 5: Using diff to see changes
 
-[Link](url) and ![Image](src)
-```
+Part 6: Using wildcards
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Part 7: Cloning cloud repos locally
 
-### Jekyll Themes
+Part 8: Branch
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulp217/CIT-Lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Part 9: Repo files
